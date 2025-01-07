@@ -1,1 +1,1 @@
-FROM httpd:alpine
+FROM httpd:alpine@sha256:648ac19d5a298ee172f3dd492c4d886f9a169b5b2d0335ecd2c7f388fde3d2c8
